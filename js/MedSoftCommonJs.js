@@ -2,7 +2,7 @@
 공용 js
 MedSoftCommonJs
 */
-alert(222222222222222);
+alert(44444);
 // input only number
 $(document).ready(function(){
     alert(1);
